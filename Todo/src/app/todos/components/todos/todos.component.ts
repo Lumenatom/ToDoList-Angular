@@ -4,4 +4,4 @@ import { Component } from "@angular/core";
     selector: 'app-todos',
     templateUrl: './todos.component.html',
 })
-export class TodoComponent {}
+export class TodosComponent {}
