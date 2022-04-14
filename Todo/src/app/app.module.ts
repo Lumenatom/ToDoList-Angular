@@ -6,6 +6,7 @@ import { AppComponent } from 'src/app/app.component';
 import { TodosModule } from 'src/app/todos/todos.modules';
 
 @NgModule({
+  
   declarations: [
     AppComponent,
   ],
@@ -16,5 +17,8 @@ import { TodosModule } from 'src/app/todos/todos.modules';
   ],
   providers: [],
   bootstrap: [AppComponent]
+  
 })
+
+
 export class AppModule { }
